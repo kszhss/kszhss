@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ✨ I'm `Khofifah` from Team 2 Section Khatulistiwa.
+- 🌱 I’m currently learning `Software Engineering`.
