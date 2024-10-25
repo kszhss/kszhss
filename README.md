@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ✨ I'm `Khofifah` from Team 2 Section Khatulistiwa.
-- 🌱 I’m currently learning `Software Engineering`.
+- ✨ I'm `Khofifah`. 
+- ✨ I’m fresh graduate majoring in information systems and interested in data analysis. Have learning and
+work experience in the field of data processing and analysis. Have good analytical and time management
+skills.
+
